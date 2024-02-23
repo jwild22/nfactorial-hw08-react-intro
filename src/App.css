@@ -1,0 +1,64 @@
+.header {
+  text-decoration: none;
+  color: black;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.hello {
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 48px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.author {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.title {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 28px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+
+.summary {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.in {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+img {
+  width: 265px;
+  height: 265px;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
+
+.category {
+  background-color: rgba(8, 30, 52, 0.12);
+  color: rgba(8, 30, 52, 1);
+  width: 107px;
+  height: 30px;
+  border-radius: 100px;
+  font-family: 'Inter';
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 6px 16px 6px 16px;
+}
